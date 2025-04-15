@@ -28,9 +28,9 @@ This project demonstrates how pre-trained segmentation models can be fine-tuned 
 ## **Dataset & Preprocessing**
 
 - **Dataset Source**
-- **Dataset Link**: [Pothole Image Segmentation Dataset](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)
-- **Roboflow Dataset Page**: [Pothole Segmentation YOLOv8](https://universe.roboflow.com/farzad/pothole_segmentation_yolov8/dataset/1)
-- **License**: CC BY 4.0
+  - **Dataset Link**: [Pothole Image Segmentation Dataset](https://www.kaggle.com/datasets/farzadnekouei/pothole-image-segmentation-dataset)
+  - **Roboflow Dataset Page**: [Pothole Segmentation YOLOv8](https://universe.roboflow.com/farzad/pothole_segmentation_yolov8/dataset/1)
+  - **License**: CC BY 4.0
 
 - **Dataset Details**
   - Training Images: 720
